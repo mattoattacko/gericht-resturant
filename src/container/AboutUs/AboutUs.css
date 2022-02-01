@@ -52,6 +52,9 @@
   color: var(--color-grey);
 }
 
+
+
+/* Largest Sizes */
 @media screen and (min-width: 2000px) {
   .app__aboutus-content_knife img {
       height: 1110px;
@@ -75,6 +78,9 @@
   }
 }
 
+
+
+/* Mobile Size */
 @media screen and (max-width: 650px) {
   .app__aboutus-overlay img {
       width: 80%;
